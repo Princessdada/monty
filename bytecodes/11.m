@@ -1,6 +1,4 @@
-push 2
-push 8
-push 0
-pall
-mod
-pall
+push 65
+push 83
+push 83
+pstr
