@@ -1,6 +1,6 @@
 push 2
 push 8
-push 0
+push 4
 pall
-mod
+div
 pall
